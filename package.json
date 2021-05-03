@@ -1,9 +1,9 @@
 {
-  "name": "DarkMan",
+  "name": "goldenstaff",
   "version": "1.0.0",
-  "description": "BrodCast By : DarkMan",
-  "main": "DarkMan.js",
-  "author": "DarkMan",
+  "description": "BrodCast By : goldenstaff",
+  "main": "goldenstaff.js",
+  "author": "goldenstaff",
   "license": "MIT",
       "engines": {
         "node": "10.x"
@@ -80,6 +80,6 @@
     "ytdl-core": "^1.0.3"
   },
   "scripts": {
-    "start": "node DarkMan.js"
+    "start": "node goldenstaff.js"
   }
 }
